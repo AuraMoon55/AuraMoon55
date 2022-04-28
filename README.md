@@ -10,7 +10,7 @@
 <tbody>
 <tr valign="top">
 <td align="center">
-  Name: Anshul Garg. 
+  - Name: Anshul Garg. 
   
   - Nationality: Indian.
   
