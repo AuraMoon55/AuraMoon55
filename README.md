@@ -29,7 +29,7 @@
  
  ## Programming Languages I'm Seasoned in:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 ## Languages I'm Learning/Planning to Learn:
 
