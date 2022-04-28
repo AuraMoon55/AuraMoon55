@@ -18,7 +18,7 @@
   
   - 16 years old.
   
-  - Cuurently Residing in Punjab, India.
+  - Curently Residing in Punjab, India.
   
   - I'm Seasoned in Python, but its always better to know more.
 </td>
