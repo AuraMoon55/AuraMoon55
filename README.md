@@ -5,6 +5,11 @@
 ### Personal Info:
 
 <b>
+
+<table align="center" style="table-layout: fixed; width: 100%;">
+<tbody>
+<tr valign="top">
+<td align="center">
   Name: Anshul Garg. 
   
   - Nationality: Indian.
@@ -16,8 +21,10 @@
   - Cuurently Residing in Punjab, India.
   
   - I'm Seasoned in Python, but its always better to know more.
-  
-
+</td>
+</tr>
+</tbody>
+</table>
  </b> 
  
  ## Programming Languages I'm Seasoned in:
