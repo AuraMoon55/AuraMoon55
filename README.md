@@ -39,9 +39,9 @@
 
 ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![C](https://img.shields.io/badge/C-E34F26?style=for-the-badge&logo=c&logoColor=white)
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 
-![Flask](https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=Flask&logoColor=F7DF1E)
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 
 ## Where to find me
 
