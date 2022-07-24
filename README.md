@@ -18,7 +18,7 @@
   
   - Languages I speak: English; Hindi; Punjabi.
   
-  - 16 years old.
+  - 17 years old.
   
   - Curently Residing in Punjab, India.
   
